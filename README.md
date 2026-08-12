@@ -1,6 +1,7 @@
 # pdfplumber
 
 [![Version](https://img.shields.io/pypi/v/pdfplumber.svg)](https://pypi.python.org/pypi/pdfplumber) ![Tests](https://github.com/jsvine/pdfplumber/workflows/Tests/badge.svg) [![Code coverage](https://codecov.io/gh/jsvine/pdfplumber/branch/stable/graph/badge.svg)](https://codecov.io/gh/jsvine/pdfplumber/branch/stable) [![Support Python versions](https://img.shields.io/pypi/pyversions/pdfplumber.svg)](https://pypi.python.org/pypi/pdfplumber)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fpdfplumber.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fpdfplumber?ref=badge_shield)
 
 Plumb a PDF for detailed information about each text character, rectangle, and line. Plus: Table extraction and visual debugging.
 
@@ -583,3 +584,7 @@ Current maintainers:
 
 - [Jeremy Singer-Vine](https://github.com/jsvine)
 - [Samkit Jain](https://github.com/samkit-jain)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fpdfplumber.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fpdfplumber?ref=badge_large)
